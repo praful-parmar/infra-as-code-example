@@ -15,7 +15,7 @@ terragrunt version v0.43.0
 
 Commands:
 
-1) Go to cd environment/dev/vpc/
+1) Go to perticular module   like: cd environment/dev/vpc/
 2) terragrunt init
 3) terragrunt plan
 4) terragrunt apply

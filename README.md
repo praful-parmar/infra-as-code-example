@@ -1,17 +1,21 @@
 
 Make terraform code dry using terragrunt
 
-Manage multiple environments
 
-Deploy module on require in specific environment
+Manage multiple environments simply by deploying module on require
 
 
 [version]
+
 Terraform v1.3.7
+
 terragrunt version v0.43.0
 
+
+
 Commands:
-     go to cd environment/dev/vpc/
-     terragrunt init
-     terragrunt plan
-     terragrunt apply
+
+1) Go to cd environment/dev/vpc/
+2) terragrunt init
+3) terragrunt plan
+4) terragrunt apply
